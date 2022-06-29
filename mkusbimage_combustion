@@ -1,0 +1,3 @@
+#!/bin/bash
+
+mkisofs -o combustion.img -V ignition combustion/
